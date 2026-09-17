@@ -1,6 +1,6 @@
 '''
     苹果iMessage蓝号筛选，iMessage蓝号数据筛选工具
-	电报Telegram：@im66622 (https://t.me/im66622)
+	电报Telegram：@im66622 (https://t.me/im6622)
 '''
 import time
 import os
