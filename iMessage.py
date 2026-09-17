@@ -1,5 +1,6 @@
 '''
     苹果iMessage蓝号筛选，iMessage蓝号数据筛选工具
+	Apple iMessage Blue Number Filter, iMessage Blue Number Data Filter Tool
 	电报Telegram：@im66622 (https://t.me/im6622)
 '''
 import time
