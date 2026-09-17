@@ -1,6 +1,6 @@
 '''
-    协议版 苹果iMessage蓝号筛选，协议检测手机号是否精准开启iMessage服务
-	电报Telegram：@im33166 (https://t.me/im33166)
+    苹果iMessage蓝号筛选，iMessage蓝号数据筛选工具
+	电报Telegram：@im66622 (https://t.me/im66622)
 '''
 import time
 import os
